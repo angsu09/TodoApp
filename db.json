@@ -8,7 +8,7 @@
     {
       "id": 1,
       "description": "Walk the dog",
-      "completed": false
+      "completed": true
     },
     {
       "id": 2,
@@ -19,6 +19,11 @@
       "id": 3,
       "description": "Finish this project",
       "completed": false
+    },
+    {
+      "description": "Get Grocery",
+      "completed": false,
+      "id": 4
     }
   ]
 }
