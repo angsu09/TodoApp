@@ -1,6 +1,7 @@
 # Todo App
 
-![image](https://user-images.githubusercontent.com/112499444/188333162-74fabd7e-4484-49c5-8cfc-e137b1afc021.png)
+![image](https://user-images.githubusercontent.com/112499444/192257103-b01a7eca-c440-407f-b2e6-431835fad09f.png)
+
 
 ## Project setup
 ```
